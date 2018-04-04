@@ -21,8 +21,11 @@ This lagom scala project provides the implementation of cassandra, kafka and ela
 ##### 2) Setup Elasticsearch
 
 **Step 1**: Download it from [here](https://www.elastic.co/downloads/elasticsearch)
+
 **Step 2**: Extract it
+
 **Step 3**: Move into the elasicsearch directory
+
 **Step 4**: Run Elasticsearch
 
 ` $ bin/elasticsearch`
@@ -30,8 +33,11 @@ This lagom scala project provides the implementation of cassandra, kafka and ela
 ##### 3) Setup Kibana
 
 **Step 1**: Download it from [here](https://www.elastic.co/downloads/kibana)
+
 **Step 2**: Extract it
+
 **Step 3**: Move into the kibana directory
+
 **Step 4**: Run Kibana
 
 ` $ bin/kibana`
@@ -39,8 +45,11 @@ This lagom scala project provides the implementation of cassandra, kafka and ela
 ##### 4) Setup Cassandra
 
 **Step 1**: Download it from [here](http://cassandra.apache.org/download/)
+
 **Step 2**: Extract it
+
 **Step 3**: Move into the cassandra directory
+
 **Step 4**: Run Cassandra
 
 ` $ bin/cassandra`
